@@ -1,0 +1,31 @@
+.app {
+    padding-left: 30px;
+}
+
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
+
+.selected {
+    opacity: .25;
+}
+
+.shnu-fade-out {
+    transition: opacity 500ms ease-in-out;
+    opacity: 0.0;
+    pointer-events: none;
+}
+
+.transparent {
+    opacity: 0.0;
+}
+
+.shnu-fade-in {
+    transition: opacity 500ms ease-in-out;
+    opacity: 1.0;
+}
