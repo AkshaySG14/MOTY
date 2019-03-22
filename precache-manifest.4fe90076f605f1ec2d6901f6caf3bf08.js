@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/MOTY/static/media/nice.bab589d0.jpeg"
   },
   {
-    "revision": "9b82bd6c3c236a30288e48660bd7d452",
+    "revision": "61fec6382c42eef2544cae96918e4639",
     "url": "/MOTY/index.html"
   }
 ];
