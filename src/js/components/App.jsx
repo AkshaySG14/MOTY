@@ -68,7 +68,7 @@ class App extends React.Component {
                             <img
                                 src={row1col1}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[0] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[0] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(0)
                                 }}
@@ -79,7 +79,7 @@ class App extends React.Component {
                             <img
                                 src={row1col2}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[1] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[1] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(1)
                                 }}
@@ -90,7 +90,7 @@ class App extends React.Component {
                             <img
                                 src={row1col3}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[2] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[2] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(2)
                                 }}
@@ -101,7 +101,7 @@ class App extends React.Component {
                             <img
                                 src={row1col4}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[3] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[3] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(3)
                                 }}
@@ -114,7 +114,7 @@ class App extends React.Component {
                             <img
                                 src={row2col1}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[4] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[4] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(4)
                                 }}
@@ -125,7 +125,7 @@ class App extends React.Component {
                             <img
                                 src={row2col2}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[5] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[5] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(5)
                                 }}
@@ -136,7 +136,7 @@ class App extends React.Component {
                             <img
                                 src={row2col3}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[6] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[6] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(6)
                                 }}
@@ -147,7 +147,7 @@ class App extends React.Component {
                             <img
                                 src={row2col4}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[7] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[7] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(7)
                                 }}
@@ -160,7 +160,7 @@ class App extends React.Component {
                             <img
                                 src={row3col1}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[8] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[8] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(8)
                                 }}
@@ -171,7 +171,7 @@ class App extends React.Component {
                             <img
                                 src={row3col2}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[9] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[9] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(9)
                                 }}
@@ -182,7 +182,7 @@ class App extends React.Component {
                             <img
                                 src={row3col3}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[10] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[10] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(10)
                                 }}
@@ -193,7 +193,7 @@ class App extends React.Component {
                             <img
                                 src={row3col4}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[11] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[11] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(11)
                                 }}
@@ -206,7 +206,7 @@ class App extends React.Component {
                             <img
                                 src={row4col1}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[12] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[12] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(12)
                                 }}
@@ -217,7 +217,7 @@ class App extends React.Component {
                             <img
                                 src={row4col2}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[13] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[13] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(13)
                                 }}
@@ -228,7 +228,7 @@ class App extends React.Component {
                             <img
                                 src={row4col3}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[14] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[14] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(14)
                                 }}
@@ -239,7 +239,7 @@ class App extends React.Component {
                             <img
                                 src={row4col4}
                                 className={this.props.accept_shnu ? "shnu-fade-out" :
-                                    this.props.selected_images[15] ? "img-thumbnail selected" : "img-thumbnail"}
+                                    this.props.selected_images[15] ? "img-thumbnail selected" : "img-thumbnail normal"}
                                 onClick={() => {
                                     this.select_image(15)
                                 }}

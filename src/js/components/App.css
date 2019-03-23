@@ -7,8 +7,13 @@
     display: inline-block;
 
 }
-.brightness img:hover {
+
+.normal:hover {
     opacity: .5;
+}
+
+.selected:hover {
+    opacity: .1;
 }
 
 .selected {
