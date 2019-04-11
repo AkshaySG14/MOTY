@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c1feea1085368c343e03",
+    "revision": "4440774106accbdf9c71",
     "url": "/MOTY/static/css/main.d439e368.chunk.css"
   },
   {
-    "revision": "c1feea1085368c343e03",
-    "url": "/MOTY/static/js/main.1452cdd7.chunk.js"
+    "revision": "4440774106accbdf9c71",
+    "url": "/MOTY/static/js/main.d0635a80.chunk.js"
   },
   {
     "revision": "55098129b760a1bd3c50",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/MOTY/static/media/nice.bab589d0.jpeg"
   },
   {
-    "revision": "6082f18c0507f756ce5ee52c63ef280b",
+    "revision": "f56a7e86bb8291e9b803176900181be6",
     "url": "/MOTY/index.html"
   }
 ];
