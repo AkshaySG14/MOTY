@@ -72,7 +72,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(0)
                                 }}
-                                alt="Eenie"
                             />
                         </div>
                         <div className="brightness">
@@ -83,7 +82,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(1)
                                 }}
-                                alt="Meenie"
                             />
                         </div>
                         <div className="brightness">
@@ -94,7 +92,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(2)
                                 }}
-                                alt="Miny"
                             />
                         </div>
                         <div className="brightness">
@@ -105,7 +102,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(3)
                                 }}
-                                alt="Mo"
                             />
                         </div>
                     </div>
@@ -118,7 +114,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(4)
                                 }}
-                                alt="Catch"
                             />
                         </div>
                         <div className="brightness">
@@ -129,7 +124,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(5)
                                 }}
-                                alt="A"
                             />
                         </div>
                         <div className="brightness">
@@ -140,7 +134,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(6)
                                 }}
-                                alt="Vishnu"
                             />
                         </div>
                         <div className="brightness">
@@ -151,7 +144,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(7)
                                 }}
-                                alt="By"
                             />
                         </div>
                     </div>
@@ -164,7 +156,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(8)
                                 }}
-                                alt="His"
                             />
                         </div>
                         <div className="brightness">
@@ -175,7 +166,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(9)
                                 }}
-                                alt="Chode"
                             />
                         </div>
                         <div className="brightness">
@@ -186,7 +176,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(10)
                                 }}
-                                alt="If"
                             />
                         </div>
                         <div className="brightness">
@@ -197,7 +186,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(11)
                                 }}
-                                alt="It"
                             />
                         </div>
                     </div>
@@ -210,7 +198,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(12)
                                 }}
-                                alt="Hardens"
                             />
                         </div>
                         <div className="brightness">
@@ -221,7 +208,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(13)
                                 }}
-                                alt="Let"
                             />
                         </div>
                         <div className="brightness">
@@ -232,7 +218,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(14)
                                 }}
-                                alt="Him"
                             />
                         </div>
                         <div className="brightness">
@@ -243,7 +228,6 @@ class App extends React.Component {
                                 onClick={() => {
                                     this.select_image(15)
                                 }}
-                                alt="Go"
                             />
                         </div>
                     </div>
